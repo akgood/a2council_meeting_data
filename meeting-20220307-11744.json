@@ -4572,11 +4572,11 @@
                     "VoteLastModifiedUtc": "2022-03-08T02:35:53.547",
                     "VotePersonId": 470,
                     "VotePersonName": "Kathy Griswold",
-                    "VoteResult": 2,
-                    "VoteRowVersion": "AAAAAAFLrJU=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAFLrJ8=",
                     "VoteSort": 1865,
-                    "VoteValueId": 17,
-                    "VoteValueName": "Nay"
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 165780,
@@ -4598,11 +4598,11 @@
                     "VoteLastModifiedUtc": "2022-03-08T02:35:53.547",
                     "VotePersonId": 1488,
                     "VotePersonName": "Ali Ramlawi",
-                    "VoteResult": 2,
-                    "VoteRowVersion": "AAAAAAFLrJc=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAFLrKE=",
                     "VoteSort": 1867,
-                    "VoteValueId": 17,
-                    "VoteValueName": "Nay"
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 165780,
