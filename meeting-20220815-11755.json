@@ -4320,7 +4320,7 @@
             "EventItemMatterGuid": "FCA7407B-FD7C-4287-A052-D0693D92B94C",
             "EventItemMatterId": 30320,
             "EventItemMatterName": "7/18/22: UDC - Parking Amendments",
-            "EventItemMatterStatus": "Second Reading",
+            "EventItemMatterStatus": "Passed",
             "EventItemMatterType": "Ordinance",
             "EventItemMinutesNote": null,
             "EventItemMinutesSequence": 45,
@@ -4938,9 +4938,9 @@
         },
         {
             "EventItemAccelaRecordId": null,
-            "EventItemActionId": null,
-            "EventItemActionName": null,
-            "EventItemActionText": null,
+            "EventItemActionId": 370,
+            "EventItemActionName": "Adopted on Second Reading",
+            "EventItemActionText": "A motion was made by Councilmember Disch, seconded by Councilmember Briggs, that the Ordinance be adopted on Second Reading. On a roll call, the vote was as follows with the Mayor declaring the motion carried:",
             "EventItemAgendaNote": null,
             "EventItemAgendaNumber": "B-2",
             "EventItemAgendaSequence": 48,
@@ -4950,24 +4950,24 @@
             "EventItemGuid": "8029926D-E89B-4BC0-BD6A-7F409E3AB5AB",
             "EventItemId": 170926,
             "EventItemInSiteURL": "https://a2gov.legistar.com/LegislationDetail.aspx?ID=5718604&GUID=997A327F-999A-439E-AF3B-29591C3FB77C&G=505481FE-B2ED-4B34-9A92-FDB26536D1E1&Options=&Search=",
-            "EventItemLastModifiedUtc": "2022-08-16T01:37:43.987",
+            "EventItemLastModifiedUtc": "2022-08-16T02:04:18.607",
             "EventItemMatterAttachments": [],
             "EventItemMatterFile": "22-1147",
             "EventItemMatterGuid": "FCA7407B-FD7C-4287-A052-D0693D92B94C",
             "EventItemMatterId": 30320,
             "EventItemMatterName": "7/18/22: UDC - Parking Amendments",
-            "EventItemMatterStatus": "Second Reading",
+            "EventItemMatterStatus": "Passed",
             "EventItemMatterType": "Ordinance",
             "EventItemMinutesNote": null,
             "EventItemMinutesSequence": 54,
-            "EventItemMover": null,
-            "EventItemMoverId": null,
-            "EventItemPassedFlag": null,
-            "EventItemPassedFlagName": null,
+            "EventItemMover": "Lisa Disch",
+            "EventItemMoverId": 1623,
+            "EventItemPassedFlag": 1,
+            "EventItemPassedFlagName": "Pass",
             "EventItemRollCallFlag": 0,
-            "EventItemRowVersion": "AAAAAAFaFx0=",
-            "EventItemSeconder": null,
-            "EventItemSeconderId": null,
+            "EventItemRowVersion": "AAAAAAFaF5E=",
+            "EventItemSeconder": "Erica Briggs",
+            "EventItemSeconderId": 326,
             "EventItemTally": null,
             "EventItemTitle": "An Ordinance to Amend Sections 5.16.1.A, 5.16.2.A, 5.16.2.B, 5.16.3.J, 5.16.3.P, 5.16.4.B, 5.16.6.C, 5.16.6.G, and to repeal and replace Section 5.19 of Chapter 55 (Unified Development Code) of Title V of Code of the City of Ann Arbor - (Amend Parking Standards) (ORD-22-13)",
             "EventItemVersion": "1",
@@ -4981,11 +4981,11 @@
                     "VoteLastModifiedUtc": "2022-08-16T02:03:53.923",
                     "VotePersonId": 749,
                     "VotePersonName": "Christopher Taylor",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAFaF20=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAFaF3g=",
                     "VoteSort": 1467,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 170926,
@@ -4994,11 +4994,11 @@
                     "VoteLastModifiedUtc": "2022-08-16T02:03:53.927",
                     "VotePersonId": 718,
                     "VotePersonName": "Julie Grand",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAFaF24=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAFaF3k=",
                     "VoteSort": 1468,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 170926,
@@ -5007,11 +5007,11 @@
                     "VoteLastModifiedUtc": "2022-08-16T02:03:53.927",
                     "VotePersonId": 1486,
                     "VotePersonName": "Jeff Hayner",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAFaF28=",
+                    "VoteResult": 2,
+                    "VoteRowVersion": "AAAAAAFaF4Q=",
                     "VoteSort": 1864,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 17,
+                    "VoteValueName": "Nay"
                 },
                 {
                     "VoteEventItemId": 170926,
@@ -5020,11 +5020,11 @@
                     "VoteLastModifiedUtc": "2022-08-16T02:03:53.927",
                     "VotePersonId": 470,
                     "VotePersonName": "Kathy Griswold",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAFaF3A=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAFaF3s=",
                     "VoteSort": 1865,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 170926,
@@ -5033,11 +5033,11 @@
                     "VoteLastModifiedUtc": "2022-08-16T02:03:53.927",
                     "VotePersonId": 1487,
                     "VotePersonName": "Elizabeth Nelson",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAFaF3E=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAFaF3w=",
                     "VoteSort": 1866,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 170926,
@@ -5046,11 +5046,11 @@
                     "VoteLastModifiedUtc": "2022-08-16T02:03:53.93",
                     "VotePersonId": 1488,
                     "VotePersonName": "Ali Ramlawi",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAFaF3I=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAFaF30=",
                     "VoteSort": 1867,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 170926,
@@ -5059,11 +5059,11 @@
                     "VoteLastModifiedUtc": "2022-08-16T02:03:53.93",
                     "VotePersonId": 326,
                     "VotePersonName": "Erica Briggs",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAFaF3M=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAFaF34=",
                     "VoteSort": 2044,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 170926,
@@ -5072,11 +5072,11 @@
                     "VoteLastModifiedUtc": "2022-08-16T02:03:53.933",
                     "VotePersonId": 1623,
                     "VotePersonName": "Lisa Disch",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAFaF3Q=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAFaF38=",
                     "VoteSort": 2045,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 170926,
@@ -5085,11 +5085,11 @@
                     "VoteLastModifiedUtc": "2022-08-16T02:03:53.937",
                     "VotePersonId": 1624,
                     "VotePersonName": "Linh Song",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAFaF3U=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAFaF4A=",
                     "VoteSort": 2046,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 170926,
@@ -5098,11 +5098,11 @@
                     "VoteLastModifiedUtc": "2022-08-16T02:03:53.937",
                     "VotePersonId": 1626,
                     "VotePersonName": "Jen Eyer",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAFaF3Y=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAFaF4E=",
                     "VoteSort": 2047,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 170926,
@@ -5111,11 +5111,11 @@
                     "VoteLastModifiedUtc": "2022-08-16T02:03:53.937",
                     "VotePersonId": 1625,
                     "VotePersonName": "Travis Radina",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAFaF3c=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAFaF4I=",
                     "VoteSort": 2048,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 }
             ]
         },
