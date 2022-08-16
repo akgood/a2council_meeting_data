@@ -4629,11 +4629,11 @@
                     "VoteLastModifiedUtc": "2022-08-16T01:20:31.143",
                     "VotePersonId": 1487,
                     "VotePersonName": "Elizabeth Nelson",
-                    "VoteResult": 1,
-                    "VoteRowVersion": "AAAAAAFaFV8=",
+                    "VoteResult": 2,
+                    "VoteRowVersion": "AAAAAAFaFWk=",
                     "VoteSort": 1866,
-                    "VoteValueId": 16,
-                    "VoteValueName": "Yea"
+                    "VoteValueId": 17,
+                    "VoteValueName": "Nay"
                 },
                 {
                     "VoteEventItemId": 171508,
@@ -4642,11 +4642,11 @@
                     "VoteLastModifiedUtc": "2022-08-16T01:20:31.143",
                     "VotePersonId": 1488,
                     "VotePersonName": "Ali Ramlawi",
-                    "VoteResult": 1,
-                    "VoteRowVersion": "AAAAAAFaFWA=",
+                    "VoteResult": 2,
+                    "VoteRowVersion": "AAAAAAFaFWs=",
                     "VoteSort": 1867,
-                    "VoteValueId": 16,
-                    "VoteValueName": "Yea"
+                    "VoteValueId": 17,
+                    "VoteValueName": "Nay"
                 },
                 {
                     "VoteEventItemId": 171508,
