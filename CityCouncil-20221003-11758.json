@@ -5067,9 +5067,9 @@
         },
         {
             "EventItemAccelaRecordId": null,
-            "EventItemActionId": null,
-            "EventItemActionName": null,
-            "EventItemActionText": null,
+            "EventItemActionId": 383,
+            "EventItemActionName": "Approved",
+            "EventItemActionText": "A motion was made by Councilmember Griswold, seconded by Councilmember Nelson, that the Resolution be Approved.  On a roll call, the vote was as follows with the Mayor declaring the motion defeated:",
             "EventItemAgendaNote": null,
             "EventItemAgendaNumber": "DC-3",
             "EventItemAgendaSequence": 56,
@@ -5079,24 +5079,24 @@
             "EventItemGuid": "D8AFA4F2-A28A-4BC7-A697-7021DD07DCA8",
             "EventItemId": 173104,
             "EventItemInSiteURL": "https://a2gov.legistar.com/LegislationDetail.aspx?ID=5853494&GUID=553D7603-B265-4722-98A1-D437B22965CA&G=505481FE-B2ED-4B34-9A92-FDB26536D1E1&Options=&Search=",
-            "EventItemLastModifiedUtc": "2022-09-30T18:44:21.303",
+            "EventItemLastModifiedUtc": "2022-10-04T03:34:46.14",
             "EventItemMatterAttachments": [],
             "EventItemMatterFile": "22-1626",
             "EventItemMatterGuid": "F540B14D-3F6F-4EA6-89B4-03ED71E74260",
             "EventItemMatterId": 30777,
             "EventItemMatterName": "10/3/22 - Resolution Regarding Nonpartisan Elections",
-            "EventItemMatterStatus": "Introduced from Council",
+            "EventItemMatterStatus": "Defeated",
             "EventItemMatterType": "Resolution",
             "EventItemMinutesNote": null,
             "EventItemMinutesSequence": 65,
-            "EventItemMover": null,
-            "EventItemMoverId": null,
-            "EventItemPassedFlag": null,
-            "EventItemPassedFlagName": null,
+            "EventItemMover": "Kathy Griswold",
+            "EventItemMoverId": 470,
+            "EventItemPassedFlag": 0,
+            "EventItemPassedFlagName": "Fail",
             "EventItemRollCallFlag": 0,
-            "EventItemRowVersion": "AAAAAAFesCo=",
-            "EventItemSeconder": null,
-            "EventItemSeconderId": null,
+            "EventItemRowVersion": "AAAAAAFesNM=",
+            "EventItemSeconder": "Elizabeth Nelson",
+            "EventItemSeconderId": 1487,
             "EventItemTally": null,
             "EventItemTitle": "Resolution to Order Election, Approve Charter Amendment of the Ann Arbor City Charter Sections to Establish Non-Partisan Nomination and Election for the Offices of Mayor and Council and Determine Ballot Language for this Amendment (7 Votes Required)",
             "EventItemVersion": "1",
@@ -5110,11 +5110,11 @@
                     "VoteLastModifiedUtc": "2022-10-04T03:33:11.96",
                     "VotePersonId": 749,
                     "VotePersonName": "Christopher Taylor",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAFesKQ=",
+                    "VoteResult": 2,
+                    "VoteRowVersion": "AAAAAAFesK8=",
                     "VoteSort": 1467,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 17,
+                    "VoteValueName": "Nay"
                 },
                 {
                     "VoteEventItemId": 173104,
@@ -5123,11 +5123,11 @@
                     "VoteLastModifiedUtc": "2022-10-04T03:33:11.96",
                     "VotePersonId": 718,
                     "VotePersonName": "Julie Grand",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAFesKU=",
+                    "VoteResult": 2,
+                    "VoteRowVersion": "AAAAAAFesLA=",
                     "VoteSort": 1468,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 17,
+                    "VoteValueName": "Nay"
                 },
                 {
                     "VoteEventItemId": 173104,
@@ -5136,11 +5136,11 @@
                     "VoteLastModifiedUtc": "2022-10-04T03:33:11.96",
                     "VotePersonId": 1486,
                     "VotePersonName": "Jeff Hayner",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAFesKY=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAFesLw=",
                     "VoteSort": 1864,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 173104,
@@ -5149,11 +5149,11 @@
                     "VoteLastModifiedUtc": "2022-10-04T03:33:11.963",
                     "VotePersonId": 470,
                     "VotePersonName": "Kathy Griswold",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAFesKc=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAFesL4=",
                     "VoteSort": 1865,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 173104,
@@ -5162,11 +5162,11 @@
                     "VoteLastModifiedUtc": "2022-10-04T03:33:11.963",
                     "VotePersonId": 1487,
                     "VotePersonName": "Elizabeth Nelson",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAFesKg=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAFesMA=",
                     "VoteSort": 1866,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 173104,
@@ -5175,11 +5175,11 @@
                     "VoteLastModifiedUtc": "2022-10-04T03:33:11.967",
                     "VotePersonId": 1488,
                     "VotePersonName": "Ali Ramlawi",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAFesKk=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAFesMI=",
                     "VoteSort": 1867,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 173104,
@@ -5188,11 +5188,11 @@
                     "VoteLastModifiedUtc": "2022-10-04T03:33:11.967",
                     "VotePersonId": 326,
                     "VotePersonName": "Erica Briggs",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAFesKo=",
+                    "VoteResult": 2,
+                    "VoteRowVersion": "AAAAAAFesLU=",
                     "VoteSort": 2044,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 17,
+                    "VoteValueName": "Nay"
                 },
                 {
                     "VoteEventItemId": 173104,
@@ -5201,11 +5201,11 @@
                     "VoteLastModifiedUtc": "2022-10-04T03:33:11.97",
                     "VotePersonId": 1623,
                     "VotePersonName": "Lisa Disch",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAFesKs=",
+                    "VoteResult": 2,
+                    "VoteRowVersion": "AAAAAAFesLY=",
                     "VoteSort": 2045,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 17,
+                    "VoteValueName": "Nay"
                 },
                 {
                     "VoteEventItemId": 173104,
@@ -5214,11 +5214,11 @@
                     "VoteLastModifiedUtc": "2022-10-04T03:33:11.97",
                     "VotePersonId": 1624,
                     "VotePersonName": "Linh Song",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAFesKw=",
+                    "VoteResult": 2,
+                    "VoteRowVersion": "AAAAAAFesLc=",
                     "VoteSort": 2046,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 17,
+                    "VoteValueName": "Nay"
                 },
                 {
                     "VoteEventItemId": 173104,
@@ -5227,11 +5227,11 @@
                     "VoteLastModifiedUtc": "2022-10-04T03:33:11.973",
                     "VotePersonId": 1626,
                     "VotePersonName": "Jen Eyer",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAFesK0=",
+                    "VoteResult": 2,
+                    "VoteRowVersion": "AAAAAAFesLg=",
                     "VoteSort": 2047,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 17,
+                    "VoteValueName": "Nay"
                 },
                 {
                     "VoteEventItemId": 173104,
@@ -5240,11 +5240,11 @@
                     "VoteLastModifiedUtc": "2022-10-04T03:33:11.973",
                     "VotePersonId": 1625,
                     "VotePersonName": "Travis Radina",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAFesK4=",
+                    "VoteResult": 2,
+                    "VoteRowVersion": "AAAAAAFesLk=",
                     "VoteSort": 2048,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 17,
+                    "VoteValueName": "Nay"
                 }
             ]
         },
