@@ -4934,9 +4934,9 @@
         },
         {
             "EventItemAccelaRecordId": null,
-            "EventItemActionId": null,
-            "EventItemActionName": null,
-            "EventItemActionText": null,
+            "EventItemActionId": 376,
+            "EventItemActionName": "that Council enter into Closed Session",
+            "EventItemActionText": "A motion was made by Councilmember Hayner, seconded by Councilmember Briggs, that Council enter into Closed Session under the Michigan Open Meetings Act to discuss pending litigation under MCL 15.268 (e) regarding Rasiel Alvarez Rodriguez v. James Robert Boylan and City of Ann Arbor, Washtenaw County Circuit Court Case Number 21-001280-NI. On a roll call, the vote was as follows with the Mayor declaring the motion carried and the meeting adjourned in Closed Session at 8:43 p.m.:",
             "EventItemAgendaNote": null,
             "EventItemAgendaNumber": null,
             "EventItemAgendaSequence": 48,
@@ -4945,7 +4945,7 @@
             "EventItemFlagExtra": 0,
             "EventItemGuid": "F9652717-3013-47F1-94C5-BF6881711F70",
             "EventItemId": 173537,
-            "EventItemLastModifiedUtc": "2022-10-06T12:55:22.563",
+            "EventItemLastModifiedUtc": "2022-10-18T00:56:54.953",
             "EventItemMatterAttachments": [],
             "EventItemMatterFile": null,
             "EventItemMatterGuid": null,
@@ -4955,14 +4955,14 @@
             "EventItemMatterType": null,
             "EventItemMinutesNote": null,
             "EventItemMinutesSequence": 54,
-            "EventItemMover": null,
-            "EventItemMoverId": null,
-            "EventItemPassedFlag": null,
-            "EventItemPassedFlagName": null,
+            "EventItemMover": "Jeff Hayner",
+            "EventItemMoverId": 1486,
+            "EventItemPassedFlag": 1,
+            "EventItemPassedFlagName": "Pass",
             "EventItemRollCallFlag": 0,
-            "EventItemRowVersion": "AAAAAAFfvPk=",
-            "EventItemSeconder": null,
-            "EventItemSeconderId": null,
+            "EventItemRowVersion": "AAAAAAFfvew=",
+            "EventItemSeconder": "Erica Briggs",
+            "EventItemSeconderId": 326,
             "EventItemTally": null,
             "EventItemTitle": "CLOSED SESSION UNDER THE MICHIGAN OPEN MEETINGS ACT, INCLUDING BUT NOT LIMITED TO, LABOR NEGOTIATIONS STRATEGY, PURCHASE OR LEASE OF REAL PROPERTY, PENDING LITIGATION AND ATTORNEY/CLIENT PRIVILEGED COMMUNICATIONS SET FORTH OR INCORPORATED IN MCLA 15.268 (C), (D) (E), AND (H).",
             "EventItemVersion": null,
@@ -4976,11 +4976,11 @@
                     "VoteLastModifiedUtc": "2022-10-18T00:54:27.103",
                     "VotePersonId": 749,
                     "VotePersonName": "Christopher Taylor",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAFfvcE=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAFfvdU=",
                     "VoteSort": 1467,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 173537,
@@ -4989,11 +4989,11 @@
                     "VoteLastModifiedUtc": "2022-10-18T00:54:27.107",
                     "VotePersonId": 718,
                     "VotePersonName": "Julie Grand",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAFfvcI=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAFfvdY=",
                     "VoteSort": 1468,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 173537,
@@ -5002,11 +5002,11 @@
                     "VoteLastModifiedUtc": "2022-10-18T00:54:27.11",
                     "VotePersonId": 1486,
                     "VotePersonName": "Jeff Hayner",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAFfvcM=",
+                    "VoteResult": 2,
+                    "VoteRowVersion": "AAAAAAFfveA=",
                     "VoteSort": 1864,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 17,
+                    "VoteValueName": "Nay"
                 },
                 {
                     "VoteEventItemId": 173537,
@@ -5015,11 +5015,11 @@
                     "VoteLastModifiedUtc": "2022-10-18T00:54:27.11",
                     "VotePersonId": 470,
                     "VotePersonName": "Kathy Griswold",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAFfvcQ=",
+                    "VoteResult": 0,
+                    "VoteRowVersion": "AAAAAAFfveI=",
                     "VoteSort": 1865,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 19,
+                    "VoteValueName": "Absent"
                 },
                 {
                     "VoteEventItemId": 173537,
@@ -5028,11 +5028,11 @@
                     "VoteLastModifiedUtc": "2022-10-18T00:54:27.11",
                     "VotePersonId": 1487,
                     "VotePersonName": "Elizabeth Nelson",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAFfvcU=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAFfvdk=",
                     "VoteSort": 1866,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 173537,
@@ -5054,11 +5054,11 @@
                     "VoteLastModifiedUtc": "2022-10-18T00:54:27.11",
                     "VotePersonId": 326,
                     "VotePersonName": "Erica Briggs",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAFfvcc=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAFfvdo=",
                     "VoteSort": 2044,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 173537,
@@ -5067,11 +5067,11 @@
                     "VoteLastModifiedUtc": "2022-10-18T00:54:27.113",
                     "VotePersonId": 1623,
                     "VotePersonName": "Lisa Disch",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAFfvcg=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAFfvds=",
                     "VoteSort": 2045,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 173537,
@@ -5080,11 +5080,11 @@
                     "VoteLastModifiedUtc": "2022-10-18T00:54:27.113",
                     "VotePersonId": 1624,
                     "VotePersonName": "Linh Song",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAFfvck=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAFfvdw=",
                     "VoteSort": 2046,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 173537,
@@ -5093,11 +5093,11 @@
                     "VoteLastModifiedUtc": "2022-10-18T00:54:27.113",
                     "VotePersonId": 1626,
                     "VotePersonName": "Jen Eyer",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAFfvco=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAFfvd0=",
                     "VoteSort": 2047,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 173537,
@@ -5106,11 +5106,11 @@
                     "VoteLastModifiedUtc": "2022-10-18T00:54:27.113",
                     "VotePersonId": 1625,
                     "VotePersonName": "Travis Radina",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAFfvcs=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAFfvd4=",
                     "VoteSort": 2048,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 }
             ]
         },
