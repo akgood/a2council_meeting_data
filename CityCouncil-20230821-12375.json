@@ -5388,14 +5388,14 @@
             "EventItemVoteInfo": []
         }
     ],
-    "EventLastModifiedUtc": "2023-08-21T21:02:47.54",
+    "EventLastModifiedUtc": "2023-08-23T15:57:34.41",
     "EventLocation": "Larcom City Hall, 301 E Huron St, Second floor, City Council Chambers",
     "EventMedia": "https://ctnvideo.a2gov.org/CablecastPublicSite/show/8738?site=1",
-    "EventMinutesFile": null,
-    "EventMinutesLastPublishedUTC": null,
+    "EventMinutesFile": "https://a2gov.legistar1.com/a2gov/meetings/2023/8/12375_M_City_Council_23-08-21_Action_Minutes.pdf",
+    "EventMinutesLastPublishedUTC": "2023-08-23T15:57:34.113",
     "EventMinutesStatusId": 9,
     "EventMinutesStatusName": "Draft",
-    "EventRowVersion": "AAAAAAF8Fig=",
+    "EventRowVersion": "AAAAAAF8IL8=",
     "EventTime": "7:00 PM",
     "EventVideoPath": null,
     "EventVideoStatus": "Public"
