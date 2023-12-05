@@ -3613,11 +3613,11 @@
                     "VoteLastModifiedUtc": "2023-12-05T02:09:14.48",
                     "VotePersonId": 1579,
                     "VotePersonName": "Ayesha Ghazi Edwin",
-                    "VoteResult": 2,
-                    "VoteRowVersion": "AAAAAAGFuK0=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAGFuLc=",
                     "VoteSort": 2050,
-                    "VoteValueId": 17,
-                    "VoteValueName": "Nay"
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 189483,
