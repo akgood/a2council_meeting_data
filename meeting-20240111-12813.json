@@ -1,8 +1,8 @@
 {
     "EventAgendaFile": "https://a2gov.legistar1.com/a2gov/meetings/2024/1/12813_A_City_Council_24-01-11_Meeting_Agenda.pdf",
-    "EventAgendaLastPublishedUTC": "2024-01-11T23:28:53.22",
-    "EventAgendaStatusId": 10,
-    "EventAgendaStatusName": "Final",
+    "EventAgendaLastPublishedUTC": "2024-01-11T23:29:58.047",
+    "EventAgendaStatusId": 11,
+    "EventAgendaStatusName": "Final-revised",
     "EventBodyId": 138,
     "EventBodyName": "City Council",
     "EventComment": "**This meeting was rescheduled from 1/8/2024**\r\n\r\nThis meeting will be broadcast live on CTN Cable Channel 16, ATT Channel 99, and online at a2gov.org/watchCTN \r\n\r\nTo sign up for public comment, call the City Clerk's Office between 8am - 5pm at 734-794-61",
@@ -6128,14 +6128,14 @@
             "EventItemVoteInfo": []
         }
     ],
-    "EventLastModifiedUtc": "2024-01-11T23:28:53.293",
+    "EventLastModifiedUtc": "2024-01-11T23:29:58.093",
     "EventLocation": "Larcom City Hall, 301 E Huron St, Second floor, City Council Chambers",
     "EventMedia": null,
     "EventMinutesFile": null,
     "EventMinutesLastPublishedUTC": null,
     "EventMinutesStatusId": 9,
     "EventMinutesStatusName": "Draft",
-    "EventRowVersion": "AAAAAAGIrBM=",
+    "EventRowVersion": "AAAAAAGIrVU=",
     "EventTime": "7:00 PM",
     "EventVideoPath": null,
     "EventVideoStatus": "Public"
