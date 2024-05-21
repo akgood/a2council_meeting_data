@@ -4779,7 +4779,7 @@
             "EventItemAccelaRecordId": null,
             "EventItemActionId": 368,
             "EventItemActionName": "Amended",
-            "EventItemActionText": "Amended",
+            "EventItemActionText": "A motion was made by Councilmember Watson, seconded by Councilmember Ghazi Edwin, that the Resolution/Public Hearing be Amended.  On a roll call, the vote was as follows with the Mayor declaring the motion defeated:",
             "EventItemAgendaNote": null,
             "EventItemAgendaNumber": null,
             "EventItemAgendaSequence": null,
@@ -4789,7 +4789,7 @@
             "EventItemGuid": "35F271AD-60FB-4A03-A3F1-1873021F4274",
             "EventItemId": 196034,
             "EventItemInSiteURL": "https://a2gov.legistar.com/LegislationDetail.aspx?ID=6643073&GUID=EF58483B-CF48-4613-A150-D9738F03E4E3&G=505481FE-B2ED-4B34-9A92-FDB26536D1E1&Options=&Search=",
-            "EventItemLastModifiedUtc": "2024-05-21T00:48:48.547",
+            "EventItemLastModifiedUtc": "2024-05-21T01:43:44.51",
             "EventItemMatterAttachments": [],
             "EventItemMatterFile": "24-0647",
             "EventItemMatterGuid": "1614AAD0-931E-45A5-9A50-77349B5A8D0E",
@@ -4799,14 +4799,14 @@
             "EventItemMatterType": "Resolution/Public Hearing",
             "EventItemMinutesNote": null,
             "EventItemMinutesSequence": 76,
-            "EventItemMover": null,
-            "EventItemMoverId": null,
-            "EventItemPassedFlag": null,
-            "EventItemPassedFlagName": null,
+            "EventItemMover": "Chris Watson",
+            "EventItemMoverId": 1772,
+            "EventItemPassedFlag": 0,
+            "EventItemPassedFlagName": "Fail",
             "EventItemRollCallFlag": 0,
-            "EventItemRowVersion": "AAAAAAGUuf4=",
-            "EventItemSeconder": null,
-            "EventItemSeconderId": null,
+            "EventItemRowVersion": "AAAAAAGUuug=",
+            "EventItemSeconder": "Ayesha Ghazi Edwin",
+            "EventItemSeconderId": 1579,
             "EventItemTally": null,
             "EventItemTitle": "Resolution to Adopt Ann Arbor City Budget and Related Property Tax Millage Rates for Fiscal Year 2025",
             "EventItemVersion": "1",
@@ -4820,11 +4820,11 @@
                     "VoteLastModifiedUtc": "2024-05-21T01:35:07.783",
                     "VotePersonId": 749,
                     "VotePersonName": "Christopher Taylor",
-                    "VoteResult": 1,
-                    "VoteRowVersion": "AAAAAAGUurg=",
+                    "VoteResult": 2,
+                    "VoteRowVersion": "AAAAAAGUutU=",
                     "VoteSort": 1467,
-                    "VoteValueId": 16,
-                    "VoteValueName": "Yea"
+                    "VoteValueId": 17,
+                    "VoteValueName": "Nay"
                 },
                 {
                     "VoteEventItemId": 196034,
@@ -4833,11 +4833,11 @@
                     "VoteLastModifiedUtc": "2024-05-21T01:35:07.783",
                     "VotePersonId": 326,
                     "VotePersonName": "Erica Briggs",
-                    "VoteResult": 1,
-                    "VoteRowVersion": "AAAAAAGUurk=",
+                    "VoteResult": 2,
+                    "VoteRowVersion": "AAAAAAGUutY=",
                     "VoteSort": 2044,
-                    "VoteValueId": 16,
-                    "VoteValueName": "Yea"
+                    "VoteValueId": 17,
+                    "VoteValueName": "Nay"
                 },
                 {
                     "VoteEventItemId": 196034,
@@ -4846,11 +4846,11 @@
                     "VoteLastModifiedUtc": "2024-05-21T01:35:07.783",
                     "VotePersonId": 1623,
                     "VotePersonName": "Lisa Disch",
-                    "VoteResult": 1,
-                    "VoteRowVersion": "AAAAAAGUuro=",
+                    "VoteResult": 2,
+                    "VoteRowVersion": "AAAAAAGUutc=",
                     "VoteSort": 2045,
-                    "VoteValueId": 16,
-                    "VoteValueName": "Yea"
+                    "VoteValueId": 17,
+                    "VoteValueName": "Nay"
                 },
                 {
                     "VoteEventItemId": 196034,
@@ -4859,11 +4859,11 @@
                     "VoteLastModifiedUtc": "2024-05-21T01:35:07.783",
                     "VotePersonId": 1624,
                     "VotePersonName": "Linh Song",
-                    "VoteResult": 1,
-                    "VoteRowVersion": "AAAAAAGUurs=",
+                    "VoteResult": 2,
+                    "VoteRowVersion": "AAAAAAGUutg=",
                     "VoteSort": 2046,
-                    "VoteValueId": 16,
-                    "VoteValueName": "Yea"
+                    "VoteValueId": 17,
+                    "VoteValueName": "Nay"
                 },
                 {
                     "VoteEventItemId": 196034,
@@ -4872,11 +4872,11 @@
                     "VoteLastModifiedUtc": "2024-05-21T01:35:07.787",
                     "VotePersonId": 1626,
                     "VotePersonName": "Jen Eyer",
-                    "VoteResult": 1,
-                    "VoteRowVersion": "AAAAAAGUurw=",
+                    "VoteResult": 2,
+                    "VoteRowVersion": "AAAAAAGUutk=",
                     "VoteSort": 2047,
-                    "VoteValueId": 16,
-                    "VoteValueName": "Yea"
+                    "VoteValueId": 17,
+                    "VoteValueName": "Nay"
                 },
                 {
                     "VoteEventItemId": 196034,
@@ -4886,7 +4886,7 @@
                     "VotePersonId": 1625,
                     "VotePersonName": "Travis Radina",
                     "VoteResult": 1,
-                    "VoteRowVersion": "AAAAAAGUur0=",
+                    "VoteRowVersion": "AAAAAAGUuuI=",
                     "VoteSort": 2048,
                     "VoteValueId": 16,
                     "VoteValueName": "Yea"
@@ -4898,11 +4898,11 @@
                     "VoteLastModifiedUtc": "2024-05-21T01:35:07.787",
                     "VotePersonId": 1693,
                     "VotePersonName": "Cynthia Harrison",
-                    "VoteResult": 1,
-                    "VoteRowVersion": "AAAAAAGUur4=",
+                    "VoteResult": 2,
+                    "VoteRowVersion": "AAAAAAGUuts=",
                     "VoteSort": 2049,
-                    "VoteValueId": 16,
-                    "VoteValueName": "Yea"
+                    "VoteValueId": 17,
+                    "VoteValueName": "Nay"
                 },
                 {
                     "VoteEventItemId": 196034,
@@ -4912,7 +4912,7 @@
                     "VotePersonId": 1579,
                     "VotePersonName": "Ayesha Ghazi Edwin",
                     "VoteResult": 1,
-                    "VoteRowVersion": "AAAAAAGUur8=",
+                    "VoteRowVersion": "AAAAAAGUuuQ=",
                     "VoteSort": 2050,
                     "VoteValueId": 16,
                     "VoteValueName": "Yea"
@@ -4924,11 +4924,11 @@
                     "VoteLastModifiedUtc": "2024-05-21T01:35:07.79",
                     "VotePersonId": 1772,
                     "VotePersonName": "Chris Watson",
-                    "VoteResult": 1,
-                    "VoteRowVersion": "AAAAAAGUusA=",
+                    "VoteResult": 2,
+                    "VoteRowVersion": "AAAAAAGUut0=",
                     "VoteSort": 2051,
-                    "VoteValueId": 16,
-                    "VoteValueName": "Yea"
+                    "VoteValueId": 17,
+                    "VoteValueName": "Nay"
                 },
                 {
                     "VoteEventItemId": 196034,
@@ -4937,11 +4937,11 @@
                     "VoteLastModifiedUtc": "2024-05-21T01:35:07.79",
                     "VotePersonId": 1773,
                     "VotePersonName": "Dharma Akmon",
-                    "VoteResult": 1,
-                    "VoteRowVersion": "AAAAAAGUusE=",
+                    "VoteResult": 2,
+                    "VoteRowVersion": "AAAAAAGUut4=",
                     "VoteSort": 2052,
-                    "VoteValueId": 16,
-                    "VoteValueName": "Yea"
+                    "VoteValueId": 17,
+                    "VoteValueName": "Nay"
                 },
                 {
                     "VoteEventItemId": 196034,
@@ -4950,11 +4950,11 @@
                     "VoteLastModifiedUtc": "2024-05-21T01:35:07.79",
                     "VotePersonId": 1646,
                     "VotePersonName": "Jennifer Cornell",
-                    "VoteResult": 1,
-                    "VoteRowVersion": "AAAAAAGUusI=",
+                    "VoteResult": 2,
+                    "VoteRowVersion": "AAAAAAGUut8=",
                     "VoteSort": 2053,
-                    "VoteValueId": 16,
-                    "VoteValueName": "Yea"
+                    "VoteValueId": 17,
+                    "VoteValueName": "Nay"
                 }
             ]
         },
