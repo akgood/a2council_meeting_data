@@ -4637,11 +4637,11 @@
                     "VoteLastModifiedUtc": "2024-05-21T01:06:32.15",
                     "VotePersonId": 749,
                     "VotePersonName": "Christopher Taylor",
-                    "VoteResult": 1,
-                    "VoteRowVersion": "AAAAAAGUupA=",
+                    "VoteResult": 2,
+                    "VoteRowVersion": "AAAAAAGUuqU=",
                     "VoteSort": 1467,
-                    "VoteValueId": 16,
-                    "VoteValueName": "Yea"
+                    "VoteValueId": 17,
+                    "VoteValueName": "Nay"
                 },
                 {
                     "VoteEventItemId": 196033,
@@ -4650,11 +4650,11 @@
                     "VoteLastModifiedUtc": "2024-05-21T01:06:32.15",
                     "VotePersonId": 326,
                     "VotePersonName": "Erica Briggs",
-                    "VoteResult": 1,
-                    "VoteRowVersion": "AAAAAAGUupE=",
+                    "VoteResult": 2,
+                    "VoteRowVersion": "AAAAAAGUuqk=",
                     "VoteSort": 2044,
-                    "VoteValueId": 16,
-                    "VoteValueName": "Yea"
+                    "VoteValueId": 17,
+                    "VoteValueName": "Nay"
                 },
                 {
                     "VoteEventItemId": 196033,
@@ -4741,11 +4741,11 @@
                     "VoteLastModifiedUtc": "2024-05-21T01:06:32.157",
                     "VotePersonId": 1772,
                     "VotePersonName": "Chris Watson",
-                    "VoteResult": 1,
-                    "VoteRowVersion": "AAAAAAGUupg=",
+                    "VoteResult": 2,
+                    "VoteRowVersion": "AAAAAAGUuqc=",
                     "VoteSort": 2051,
-                    "VoteValueId": 16,
-                    "VoteValueName": "Yea"
+                    "VoteValueId": 17,
+                    "VoteValueName": "Nay"
                 },
                 {
                     "VoteEventItemId": 196033,
@@ -4754,11 +4754,11 @@
                     "VoteLastModifiedUtc": "2024-05-21T01:06:32.157",
                     "VotePersonId": 1773,
                     "VotePersonName": "Dharma Akmon",
-                    "VoteResult": 1,
-                    "VoteRowVersion": "AAAAAAGUupk=",
+                    "VoteResult": 2,
+                    "VoteRowVersion": "AAAAAAGUuqs=",
                     "VoteSort": 2052,
-                    "VoteValueId": 16,
-                    "VoteValueName": "Yea"
+                    "VoteValueId": 17,
+                    "VoteValueName": "Nay"
                 },
                 {
                     "VoteEventItemId": 196033,
