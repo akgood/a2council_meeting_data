@@ -4637,11 +4637,11 @@
                     "VoteLastModifiedUtc": "2024-05-21T01:06:32.15",
                     "VotePersonId": 749,
                     "VotePersonName": "Christopher Taylor",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAGUuoU=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAGUupA=",
                     "VoteSort": 1467,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 196033,
@@ -4650,11 +4650,11 @@
                     "VoteLastModifiedUtc": "2024-05-21T01:06:32.15",
                     "VotePersonId": 326,
                     "VotePersonName": "Erica Briggs",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAGUuoY=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAGUupE=",
                     "VoteSort": 2044,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 196033,
@@ -4663,11 +4663,11 @@
                     "VoteLastModifiedUtc": "2024-05-21T01:06:32.15",
                     "VotePersonId": 1623,
                     "VotePersonName": "Lisa Disch",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAGUuoc=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAGUupI=",
                     "VoteSort": 2045,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 196033,
@@ -4676,11 +4676,11 @@
                     "VoteLastModifiedUtc": "2024-05-21T01:06:32.153",
                     "VotePersonId": 1624,
                     "VotePersonName": "Linh Song",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAGUuog=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAGUupM=",
                     "VoteSort": 2046,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 196033,
@@ -4689,11 +4689,11 @@
                     "VoteLastModifiedUtc": "2024-05-21T01:06:32.153",
                     "VotePersonId": 1626,
                     "VotePersonName": "Jen Eyer",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAGUuok=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAGUupQ=",
                     "VoteSort": 2047,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 196033,
@@ -4702,11 +4702,11 @@
                     "VoteLastModifiedUtc": "2024-05-21T01:06:32.153",
                     "VotePersonId": 1625,
                     "VotePersonName": "Travis Radina",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAGUuoo=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAGUupU=",
                     "VoteSort": 2048,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 196033,
@@ -4715,11 +4715,11 @@
                     "VoteLastModifiedUtc": "2024-05-21T01:06:32.153",
                     "VotePersonId": 1693,
                     "VotePersonName": "Cynthia Harrison",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAGUuos=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAGUupY=",
                     "VoteSort": 2049,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 196033,
@@ -4728,11 +4728,11 @@
                     "VoteLastModifiedUtc": "2024-05-21T01:06:32.157",
                     "VotePersonId": 1579,
                     "VotePersonName": "Ayesha Ghazi Edwin",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAGUuow=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAGUupc=",
                     "VoteSort": 2050,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 196033,
@@ -4741,11 +4741,11 @@
                     "VoteLastModifiedUtc": "2024-05-21T01:06:32.157",
                     "VotePersonId": 1772,
                     "VotePersonName": "Chris Watson",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAGUuo0=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAGUupg=",
                     "VoteSort": 2051,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 196033,
@@ -4754,11 +4754,11 @@
                     "VoteLastModifiedUtc": "2024-05-21T01:06:32.157",
                     "VotePersonId": 1773,
                     "VotePersonName": "Dharma Akmon",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAGUuo4=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAGUupk=",
                     "VoteSort": 2052,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 196033,
@@ -4767,11 +4767,11 @@
                     "VoteLastModifiedUtc": "2024-05-21T01:06:32.177",
                     "VotePersonId": 1646,
                     "VotePersonName": "Jennifer Cornell",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAGUuo8=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAGUupo=",
                     "VoteSort": 2053,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 }
             ]
         },
