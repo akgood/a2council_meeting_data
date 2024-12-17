@@ -225,7 +225,7 @@
             "EventItemGuid": "C25B6848-F46B-4399-A83C-A890D8DEC4F2",
             "EventItemId": 203358,
             "EventItemInSiteURL": null,
-            "EventItemLastModifiedUtc": "2024-12-17T00:03:22.677",
+            "EventItemLastModifiedUtc": "2024-12-17T00:03:37.427",
             "EventItemMatterAttachments": [],
             "EventItemMatterFile": null,
             "EventItemMatterGuid": null,
@@ -233,7 +233,7 @@
             "EventItemMatterName": null,
             "EventItemMatterStatus": null,
             "EventItemMatterType": null,
-            "EventItemMinutesNote": null,
+            "EventItemMinutesNote": "Councilmember Watson arrived at 7:02 p.m.",
             "EventItemMinutesSequence": 6,
             "EventItemMover": null,
             "EventItemMoverId": null,
@@ -385,7 +385,7 @@
                     "RollCallValueName": "Present"
                 }
             ],
-            "EventItemRowVersion": "AAAAAAGnkTE=",
+            "EventItemRowVersion": "AAAAAAGnkTw=",
             "EventItemSeconder": null,
             "EventItemSeconderId": null,
             "EventItemTally": null,
