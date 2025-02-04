@@ -225,7 +225,7 @@
             "EventItemGuid": "7258F3BA-1322-4E7E-887E-4736F94ECFFC",
             "EventItemId": 204868,
             "EventItemInSiteURL": null,
-            "EventItemLastModifiedUtc": "2025-02-04T00:02:27.157",
+            "EventItemLastModifiedUtc": "2025-02-04T00:06:00.09",
             "EventItemMatterAttachments": [],
             "EventItemMatterFile": null,
             "EventItemMatterGuid": null,
@@ -385,7 +385,7 @@
                     "RollCallValueName": "Present"
                 }
             ],
-            "EventItemRowVersion": "AAAAAAGrlDQ=",
+            "EventItemRowVersion": "AAAAAAGrlL0=",
             "EventItemSeconder": null,
             "EventItemSeconderId": null,
             "EventItemTally": null,
