@@ -4822,11 +4822,11 @@
                     "VoteLastModifiedUtc": "2025-03-04T02:58:55.137",
                     "VotePersonId": 1646,
                     "VotePersonName": "Jennifer Cornell",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAGujNA=",
+                    "VoteResult": 2,
+                    "VoteRowVersion": "AAAAAAGujOw=",
                     "VoteSort": 2053,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 17,
+                    "VoteValueName": "Nay"
                 },
                 {
                     "VoteEventItemId": 206047,
@@ -4835,11 +4835,11 @@
                     "VoteLastModifiedUtc": "2025-03-04T02:58:55.14",
                     "VotePersonId": 1886,
                     "VotePersonName": "Jon Mallek",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAGujNE=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAGujO4=",
                     "VoteSort": 2067,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 }
             ]
         },
