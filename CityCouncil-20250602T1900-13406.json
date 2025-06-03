@@ -225,7 +225,7 @@
             "EventItemGuid": "2A839F87-B567-439E-BC57-25DA0462E904",
             "EventItemId": 209872,
             "EventItemInSiteURL": null,
-            "EventItemLastModifiedUtc": "2025-06-02T23:09:50.07",
+            "EventItemLastModifiedUtc": "2025-06-03T01:06:02.94",
             "EventItemMatterAttachments": [],
             "EventItemMatterFile": null,
             "EventItemMatterGuid": null,
@@ -262,10 +262,10 @@
                     "RollCallPersonId": 326,
                     "RollCallPersonName": "Erica Briggs",
                     "RollCallResult": 0,
-                    "RollCallRowVersion": "AAAAAAG7n0U=",
+                    "RollCallRowVersion": "AAAAAAG7pZs=",
                     "RollCallSort": 2044,
-                    "RollCallValueId": 19,
-                    "RollCallValueName": "Absent"
+                    "RollCallValueId": 18,
+                    "RollCallValueName": "Present"
                 },
                 {
                     "RollCallEventItemId": 209872,
@@ -366,10 +366,10 @@
                     "RollCallPersonId": 1646,
                     "RollCallPersonName": "Jennifer Cornell",
                     "RollCallResult": 0,
-                    "RollCallRowVersion": "AAAAAAG7nzk=",
+                    "RollCallRowVersion": "AAAAAAG7pZY=",
                     "RollCallSort": 2053,
-                    "RollCallValueId": 18,
-                    "RollCallValueName": "Present"
+                    "RollCallValueId": 19,
+                    "RollCallValueName": "Absent"
                 },
                 {
                     "RollCallEventItemId": 209872,
@@ -385,7 +385,7 @@
                     "RollCallValueName": "Present"
                 }
             ],
-            "EventItemRowVersion": "AAAAAAG7n28=",
+            "EventItemRowVersion": "AAAAAAG7paQ=",
             "EventItemSeconder": null,
             "EventItemSeconderId": null,
             "EventItemTally": null,
