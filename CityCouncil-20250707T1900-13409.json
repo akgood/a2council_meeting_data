@@ -4097,11 +4097,11 @@
                     "VoteLastModifiedUtc": "2025-07-08T00:15:05.253",
                     "VotePersonId": 749,
                     "VotePersonName": "Christopher Taylor",
-                    "VoteResult": 1,
-                    "VoteRowVersion": "AAAAAAG+2n0=",
+                    "VoteResult": 2,
+                    "VoteRowVersion": "AAAAAAG+2o8=",
                     "VoteSort": 1467,
-                    "VoteValueId": 16,
-                    "VoteValueName": "Yea"
+                    "VoteValueId": 17,
+                    "VoteValueName": "Nay"
                 },
                 {
                     "VoteEventItemId": 211181,
@@ -4123,11 +4123,11 @@
                     "VoteLastModifiedUtc": "2025-07-08T00:15:05.253",
                     "VotePersonId": 1623,
                     "VotePersonName": "Lisa Disch",
-                    "VoteResult": 1,
-                    "VoteRowVersion": "AAAAAAG+2n8=",
+                    "VoteResult": 2,
+                    "VoteRowVersion": "AAAAAAG+2ok=",
                     "VoteSort": 2045,
-                    "VoteValueId": 16,
-                    "VoteValueName": "Yea"
+                    "VoteValueId": 17,
+                    "VoteValueName": "Nay"
                 },
                 {
                     "VoteEventItemId": 211181,
@@ -4136,11 +4136,11 @@
                     "VoteLastModifiedUtc": "2025-07-08T00:15:05.257",
                     "VotePersonId": 1626,
                     "VotePersonName": "Jen Eyer",
-                    "VoteResult": 1,
-                    "VoteRowVersion": "AAAAAAG+2oA=",
+                    "VoteResult": 2,
+                    "VoteRowVersion": "AAAAAAG+2pE=",
                     "VoteSort": 2047,
-                    "VoteValueId": 16,
-                    "VoteValueName": "Yea"
+                    "VoteValueId": 17,
+                    "VoteValueName": "Nay"
                 },
                 {
                     "VoteEventItemId": 211181,
@@ -4149,11 +4149,11 @@
                     "VoteLastModifiedUtc": "2025-07-08T00:15:05.257",
                     "VotePersonId": 1625,
                     "VotePersonName": "Travis Radina",
-                    "VoteResult": 1,
-                    "VoteRowVersion": "AAAAAAG+2oE=",
+                    "VoteResult": 2,
+                    "VoteRowVersion": "AAAAAAG+2o0=",
                     "VoteSort": 2048,
-                    "VoteValueId": 16,
-                    "VoteValueName": "Yea"
+                    "VoteValueId": 17,
+                    "VoteValueName": "Nay"
                 },
                 {
                     "VoteEventItemId": 211181,
@@ -4162,11 +4162,11 @@
                     "VoteLastModifiedUtc": "2025-07-08T00:15:05.257",
                     "VotePersonId": 1693,
                     "VotePersonName": "Cynthia Harrison",
-                    "VoteResult": 1,
-                    "VoteRowVersion": "AAAAAAG+2oI=",
+                    "VoteResult": 2,
+                    "VoteRowVersion": "AAAAAAG+2os=",
                     "VoteSort": 2049,
-                    "VoteValueId": 16,
-                    "VoteValueName": "Yea"
+                    "VoteValueId": 17,
+                    "VoteValueName": "Nay"
                 },
                 {
                     "VoteEventItemId": 211181,
