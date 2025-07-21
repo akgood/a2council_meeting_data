@@ -225,7 +225,7 @@
             "EventItemGuid": "03AA036D-86C7-46A1-A634-1FD6068BE992",
             "EventItemId": 211239,
             "EventItemInSiteURL": null,
-            "EventItemLastModifiedUtc": "2025-07-21T23:12:03.507",
+            "EventItemLastModifiedUtc": "2025-07-21T23:12:28.677",
             "EventItemMatterAttachments": [],
             "EventItemMatterFile": null,
             "EventItemMatterGuid": null,
@@ -262,10 +262,10 @@
                     "RollCallPersonId": 326,
                     "RollCallPersonName": "Erica Briggs",
                     "RollCallResult": 0,
-                    "RollCallRowVersion": "AAAAAAHAENA=",
+                    "RollCallRowVersion": "AAAAAAHAEPE=",
                     "RollCallSort": 2044,
-                    "RollCallValueId": 18,
-                    "RollCallValueName": "Present"
+                    "RollCallValueId": 19,
+                    "RollCallValueName": "Absent"
                 },
                 {
                     "RollCallEventItemId": 211239,
@@ -379,13 +379,13 @@
                     "RollCallPersonId": 1886,
                     "RollCallPersonName": "Jon Mallek",
                     "RollCallResult": 0,
-                    "RollCallRowVersion": "AAAAAAHAEOI=",
+                    "RollCallRowVersion": "AAAAAAHAEOw=",
                     "RollCallSort": 2067,
-                    "RollCallValueId": 18,
-                    "RollCallValueName": "Present"
+                    "RollCallValueId": 19,
+                    "RollCallValueName": "Absent"
                 }
             ],
-            "EventItemRowVersion": "AAAAAAHAEOo=",
+            "EventItemRowVersion": "AAAAAAHAEP4=",
             "EventItemSeconder": null,
             "EventItemSeconderId": null,
             "EventItemTally": null,
