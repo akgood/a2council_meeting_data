@@ -7047,11 +7047,11 @@
                     "VoteLastModifiedUtc": "2025-07-22T01:38:47.19",
                     "VotePersonId": 1579,
                     "VotePersonName": "Ayesha Ghazi Edwin",
-                    "VoteResult": 1,
-                    "VoteRowVersion": "AAAAAAHAIhs=",
+                    "VoteResult": 2,
+                    "VoteRowVersion": "AAAAAAHAIiA=",
                     "VoteSort": 2050,
-                    "VoteValueId": 16,
-                    "VoteValueName": "Yea"
+                    "VoteValueId": 17,
+                    "VoteValueName": "Nay"
                 },
                 {
                     "VoteEventItemId": 211702,
@@ -7086,11 +7086,11 @@
                     "VoteLastModifiedUtc": "2025-07-22T01:38:47.193",
                     "VotePersonId": 1646,
                     "VotePersonName": "Jennifer Cornell",
-                    "VoteResult": 1,
-                    "VoteRowVersion": "AAAAAAHAIh4=",
+                    "VoteResult": 2,
+                    "VoteRowVersion": "AAAAAAHAIiY=",
                     "VoteSort": 2053,
-                    "VoteValueId": 16,
-                    "VoteValueName": "Yea"
+                    "VoteValueId": 17,
+                    "VoteValueName": "Nay"
                 },
                 {
                     "VoteEventItemId": 211702,
@@ -7100,7 +7100,7 @@
                     "VotePersonId": 1886,
                     "VotePersonName": "Jon Mallek",
                     "VoteResult": 0,
-                    "VoteRowVersion": "AAAAAAHAIhY=",
+                    "VoteRowVersion": "AAAAAAHAIiQ=",
                     "VoteSort": 2067,
                     "VoteValueId": 19,
                     "VoteValueName": "Absent"
