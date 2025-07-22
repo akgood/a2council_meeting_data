@@ -6601,7 +6601,47 @@
             "EventItemVersion": "1",
             "EventItemVideo": null,
             "EventItemVideoIndex": null,
-            "EventItemVoteInfo": []
+            "EventItemVoteInfo": [
+                {
+                    "VoteEventItemId": 211288,
+                    "VoteGuid": "324846D7-BE70-4FB7-8B8C-4D5CD4DC864B",
+                    "VoteId": 82944,
+                    "VoteLastModifiedUtc": "2025-07-22T00:53:56.297",
+                    "VotePersonId": 326,
+                    "VotePersonName": "Erica Briggs",
+                    "VoteResult": 0,
+                    "VoteRowVersion": "AAAAAAHAIK0=",
+                    "VoteSort": 2044,
+                    "VoteValueId": 19,
+                    "VoteValueName": "Absent"
+                },
+                {
+                    "VoteEventItemId": 211288,
+                    "VoteGuid": "1D540D21-F492-495C-99EF-200BD46EDFC7",
+                    "VoteId": 82948,
+                    "VoteLastModifiedUtc": "2025-07-22T00:53:56.3",
+                    "VotePersonId": 1693,
+                    "VotePersonName": "Cynthia Harrison",
+                    "VoteResult": 0,
+                    "VoteRowVersion": "AAAAAAHAILE=",
+                    "VoteSort": 2049,
+                    "VoteValueId": 19,
+                    "VoteValueName": "Absent"
+                },
+                {
+                    "VoteEventItemId": 211288,
+                    "VoteGuid": "1799F1FE-5C11-47FA-90A3-A8D0F3A10BFF",
+                    "VoteId": 82953,
+                    "VoteLastModifiedUtc": "2025-07-22T00:53:56.303",
+                    "VotePersonId": 1886,
+                    "VotePersonName": "Jon Mallek",
+                    "VoteResult": 0,
+                    "VoteRowVersion": "AAAAAAHAILY=",
+                    "VoteSort": 2067,
+                    "VoteValueId": 19,
+                    "VoteValueName": "Absent"
+                }
+            ]
         },
         {
             "EventItemAccelaRecordId": null,
