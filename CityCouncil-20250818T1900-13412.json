@@ -225,7 +225,7 @@
             "EventItemGuid": "14C16294-4B84-4C9A-B638-2E1F50A26275",
             "EventItemId": 212083,
             "EventItemInSiteURL": null,
-            "EventItemLastModifiedUtc": "2025-08-18T23:09:39.65",
+            "EventItemLastModifiedUtc": "2025-08-18T23:10:14.927",
             "EventItemMatterAttachments": [],
             "EventItemMatterFile": null,
             "EventItemMatterGuid": null,
@@ -314,10 +314,10 @@
                     "RollCallPersonId": 1693,
                     "RollCallPersonName": "Cynthia Harrison",
                     "RollCallResult": 0,
-                    "RollCallRowVersion": "AAAAAAHDdak=",
+                    "RollCallRowVersion": "AAAAAAHDdb0=",
                     "RollCallSort": 2049,
-                    "RollCallValueId": 18,
-                    "RollCallValueName": "Present"
+                    "RollCallValueId": 19,
+                    "RollCallValueName": "Absent"
                 },
                 {
                     "RollCallEventItemId": 212083,
@@ -327,10 +327,10 @@
                     "RollCallPersonId": 1579,
                     "RollCallPersonName": "Ayesha Ghazi Edwin",
                     "RollCallResult": 0,
-                    "RollCallRowVersion": "AAAAAAHDdas=",
+                    "RollCallRowVersion": "AAAAAAHDdcI=",
                     "RollCallSort": 2050,
-                    "RollCallValueId": 18,
-                    "RollCallValueName": "Present"
+                    "RollCallValueId": 19,
+                    "RollCallValueName": "Absent"
                 },
                 {
                     "RollCallEventItemId": 212083,
@@ -366,10 +366,10 @@
                     "RollCallPersonId": 1646,
                     "RollCallPersonName": "Jennifer Cornell",
                     "RollCallResult": 0,
-                    "RollCallRowVersion": "AAAAAAHDdbE=",
+                    "RollCallRowVersion": "AAAAAAHDdcc=",
                     "RollCallSort": 2053,
-                    "RollCallValueId": 18,
-                    "RollCallValueName": "Present"
+                    "RollCallValueId": 19,
+                    "RollCallValueName": "Absent"
                 },
                 {
                     "RollCallEventItemId": 212083,
@@ -385,7 +385,7 @@
                     "RollCallValueName": "Present"
                 }
             ],
-            "EventItemRowVersion": "AAAAAAHDdbs=",
+            "EventItemRowVersion": "AAAAAAHDddA=",
             "EventItemSeconder": null,
             "EventItemSeconderId": null,
             "EventItemTally": null,
