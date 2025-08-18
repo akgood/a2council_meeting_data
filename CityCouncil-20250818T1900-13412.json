@@ -1,6 +1,6 @@
 {
     "EventAgendaFile": "https://a2gov.legistar1.com/a2gov/meetings/2025/8/13412_A_City_Council_25-08-18_Meeting_Agenda.pdf",
-    "EventAgendaLastPublishedUTC": "2025-08-14T21:11:57.313",
+    "EventAgendaLastPublishedUTC": "2025-08-18T22:39:38.367",
     "EventAgendaStatusId": 11,
     "EventAgendaStatusName": "Final-revised",
     "EventBodyId": 138,
@@ -25,7 +25,7 @@
             "EventItemGuid": "1BA894FD-22DC-4A54-BC46-FEEF42EF7BB6",
             "EventItemId": 212078,
             "EventItemInSiteURL": null,
-            "EventItemLastModifiedUtc": "2025-08-18T21:09:51.83",
+            "EventItemLastModifiedUtc": "2025-08-18T22:39:32.107",
             "EventItemMatterAttachments": [],
             "EventItemMatterFile": null,
             "EventItemMatterGuid": null,
@@ -41,7 +41,7 @@
             "EventItemPassedFlagName": null,
             "EventItemRollCallFlag": 0,
             "EventItemRollCallInfo": [],
-            "EventItemRowVersion": "AAAAAAHDbX8=",
+            "EventItemRowVersion": "AAAAAAHDdKM=",
             "EventItemSeconder": null,
             "EventItemSeconderId": null,
             "EventItemTally": null,
@@ -2852,14 +2852,14 @@
             "EventItemVoteInfo": []
         }
     ],
-    "EventLastModifiedUtc": "2025-08-14T21:11:57.41",
+    "EventLastModifiedUtc": "2025-08-18T22:39:38.497",
     "EventLocation": "Larcom City Hall, 301 E Huron St, Second floor, City Council Chambers",
     "EventMedia": null,
     "EventMinutesFile": null,
     "EventMinutesLastPublishedUTC": null,
     "EventMinutesStatusId": 9,
     "EventMinutesStatusName": "Draft",
-    "EventRowVersion": "AAAAAAHDbXk=",
+    "EventRowVersion": "AAAAAAHDdSs=",
     "EventTime": "7:00 PM",
     "EventVideoPath": null,
     "EventVideoStatus": "Public"
