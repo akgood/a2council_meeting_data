@@ -225,7 +225,7 @@
             "EventItemGuid": "90272400-3774-4465-90F0-45FED6033FC8",
             "EventItemId": 212987,
             "EventItemInSiteURL": null,
-            "EventItemLastModifiedUtc": "2025-09-16T00:27:34.173",
+            "EventItemLastModifiedUtc": "2025-09-16T00:28:28.65",
             "EventItemMatterAttachments": [],
             "EventItemMatterFile": null,
             "EventItemMatterGuid": null,
@@ -262,10 +262,10 @@
                     "RollCallPersonId": 326,
                     "RollCallPersonName": "Erica Briggs",
                     "RollCallResult": 0,
-                    "RollCallRowVersion": "AAAAAAHGKa0=",
+                    "RollCallRowVersion": "AAAAAAHGLVA=",
                     "RollCallSort": 2044,
-                    "RollCallValueId": 18,
-                    "RollCallValueName": "Present"
+                    "RollCallValueId": 19,
+                    "RollCallValueName": "Absent"
                 },
                 {
                     "RollCallEventItemId": 212987,
@@ -385,7 +385,7 @@
                     "RollCallValueName": "Present"
                 }
             ],
-            "EventItemRowVersion": "AAAAAAHGLUI=",
+            "EventItemRowVersion": "AAAAAAHGLVM=",
             "EventItemSeconder": null,
             "EventItemSeconderId": null,
             "EventItemTally": null,
@@ -409,7 +409,7 @@
             "EventItemGuid": "D81939B7-784D-4FC9-9F24-B2DE7A0FB463",
             "EventItemId": 212988,
             "EventItemInSiteURL": null,
-            "EventItemLastModifiedUtc": "2025-09-16T00:25:20.283",
+            "EventItemLastModifiedUtc": "2025-09-16T00:28:20.637",
             "EventItemMatterAttachments": [],
             "EventItemMatterFile": null,
             "EventItemMatterGuid": null,
@@ -425,7 +425,7 @@
             "EventItemPassedFlagName": null,
             "EventItemRollCallFlag": 0,
             "EventItemRollCallInfo": [],
-            "EventItemRowVersion": "AAAAAAHGLKM=",
+            "EventItemRowVersion": "AAAAAAHGLUs=",
             "EventItemSeconder": null,
             "EventItemSeconderId": null,
             "EventItemTally": null,
