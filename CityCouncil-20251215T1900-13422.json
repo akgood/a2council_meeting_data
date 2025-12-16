@@ -225,7 +225,7 @@
             "EventItemGuid": "BD7ACF9D-A83D-44B1-8361-2CC8953C04FD",
             "EventItemId": 215898,
             "EventItemInSiteURL": null,
-            "EventItemLastModifiedUtc": "2025-12-16T00:03:18.96",
+            "EventItemLastModifiedUtc": "2025-12-16T00:33:00.943",
             "EventItemMatterAttachments": [],
             "EventItemMatterFile": null,
             "EventItemMatterGuid": null,
@@ -249,10 +249,10 @@
                     "RollCallPersonId": 749,
                     "RollCallPersonName": "Christopher Taylor",
                     "RollCallResult": 0,
-                    "RollCallRowVersion": "AAAAAAHOgdo=",
+                    "RollCallRowVersion": "AAAAAAHOguE=",
                     "RollCallSort": 1467,
-                    "RollCallValueId": 19,
-                    "RollCallValueName": "Absent"
+                    "RollCallValueId": 18,
+                    "RollCallValueName": "Present"
                 },
                 {
                     "RollCallEventItemId": 215898,
@@ -385,7 +385,7 @@
                     "RollCallValueName": "Present"
                 }
             ],
-            "EventItemRowVersion": "AAAAAAHOgew=",
+            "EventItemRowVersion": "AAAAAAHOguQ=",
             "EventItemSeconder": null,
             "EventItemSeconderId": null,
             "EventItemTally": null,
@@ -1129,7 +1129,7 @@
             "EventItemGuid": "414C973F-8018-4B5C-81E9-67016551AAA2",
             "EventItemId": 216299,
             "EventItemInSiteURL": null,
-            "EventItemLastModifiedUtc": "2025-12-15T22:03:50.77",
+            "EventItemLastModifiedUtc": "2025-12-16T00:32:55.84",
             "EventItemMatterAttachments": [],
             "EventItemMatterFile": null,
             "EventItemMatterGuid": null,
@@ -1137,7 +1137,7 @@
             "EventItemMatterName": null,
             "EventItemMatterStatus": null,
             "EventItemMatterType": null,
-            "EventItemMinutesNote": "Mary Anne Perrone, resident, ",
+            "EventItemMinutesNote": "Mary Anne Perrone, resident, spoke about concerns regarding immigration enforcement.",
             "EventItemMinutesSequence": 25,
             "EventItemMover": null,
             "EventItemMoverId": null,
@@ -1145,7 +1145,7 @@
             "EventItemPassedFlagName": null,
             "EventItemRollCallFlag": 0,
             "EventItemRollCallInfo": [],
-            "EventItemRowVersion": "AAAAAAHOfC0=",
+            "EventItemRowVersion": "AAAAAAHOgtw=",
             "EventItemSeconder": null,
             "EventItemSeconderId": null,
             "EventItemTally": null,
