@@ -225,7 +225,7 @@
             "EventItemGuid": "4D5F50FE-C276-417E-B232-9237E8E04F2E",
             "EventItemId": 222772,
             "EventItemInSiteURL": null,
-            "EventItemLastModifiedUtc": "2026-06-15T23:04:28.423",
+            "EventItemLastModifiedUtc": "2026-06-15T23:10:55.043",
             "EventItemMatterAttachments": [],
             "EventItemMatterFile": null,
             "EventItemMatterGuid": null,
@@ -233,7 +233,7 @@
             "EventItemMatterName": null,
             "EventItemMatterStatus": null,
             "EventItemMatterType": null,
-            "EventItemMinutesNote": null,
+            "EventItemMinutesNote": "Councilmember Briggs arrived at 7:02pm. Councilmember Harrison arrived at 7:04pm.",
             "EventItemMinutesSequence": 6,
             "EventItemMover": null,
             "EventItemMoverId": null,
@@ -385,7 +385,7 @@
                     "RollCallValueName": "Present"
                 }
             ],
-            "EventItemRowVersion": "AAAAAAHju+4=",
+            "EventItemRowVersion": "AAAAAAHjvDI=",
             "EventItemSeconder": null,
             "EventItemSeconderId": null,
             "EventItemTally": null,
