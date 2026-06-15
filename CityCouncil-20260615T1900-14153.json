@@ -225,7 +225,7 @@
             "EventItemGuid": "4D5F50FE-C276-417E-B232-9237E8E04F2E",
             "EventItemId": 222772,
             "EventItemInSiteURL": null,
-            "EventItemLastModifiedUtc": "2026-06-15T23:10:55.043",
+            "EventItemLastModifiedUtc": "2026-06-15T23:15:59.99",
             "EventItemMatterAttachments": [],
             "EventItemMatterFile": null,
             "EventItemMatterGuid": null,
@@ -233,7 +233,7 @@
             "EventItemMatterName": null,
             "EventItemMatterStatus": null,
             "EventItemMatterType": null,
-            "EventItemMinutesNote": "Councilmember Briggs arrived at 7:02pm. Councilmember Harrison arrived at 7:04pm.",
+            "EventItemMinutesNote": "Councilmember Briggs arrived at 7:02pm. Councilmember Harrison arrived at 7:04pm. Councilmember Ghazi Edwin arrived at 7:15pm.",
             "EventItemMinutesSequence": 6,
             "EventItemMover": null,
             "EventItemMoverId": null,
@@ -327,10 +327,10 @@
                     "RollCallPersonId": 1579,
                     "RollCallPersonName": "Ayesha Ghazi Edwin",
                     "RollCallResult": 0,
-                    "RollCallRowVersion": "AAAAAAHju9w=",
+                    "RollCallRowVersion": "AAAAAAHjvEA=",
                     "RollCallSort": 2050,
-                    "RollCallValueId": 19,
-                    "RollCallValueName": "Absent"
+                    "RollCallValueId": 18,
+                    "RollCallValueName": "Present"
                 },
                 {
                     "RollCallEventItemId": 222772,
@@ -385,7 +385,7 @@
                     "RollCallValueName": "Present"
                 }
             ],
-            "EventItemRowVersion": "AAAAAAHjvDI=",
+            "EventItemRowVersion": "AAAAAAHjvEo=",
             "EventItemSeconder": null,
             "EventItemSeconderId": null,
             "EventItemTally": null,
