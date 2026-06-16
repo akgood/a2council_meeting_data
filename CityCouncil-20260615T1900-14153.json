@@ -3317,9 +3317,9 @@
         },
         {
             "EventItemAccelaRecordId": null,
-            "EventItemActionId": null,
-            "EventItemActionName": null,
-            "EventItemActionText": null,
+            "EventItemActionId": 383,
+            "EventItemActionName": "Approved",
+            "EventItemActionText": "A motion was made by Councilmember Cornell, seconded by Councilmember Eyer, that the Resolution be Approved. On a roll call, the vote was as follows with the Mayor declaring the motion carried:",
             "EventItemAgendaNote": "(Added 6/11/26)",
             "EventItemAgendaNumber": "DC-2",
             "EventItemAgendaSequence": 80,
@@ -3329,25 +3329,25 @@
             "EventItemGuid": "82397EB5-830D-4F21-9C95-AEA8C763C5A8",
             "EventItemId": 223128,
             "EventItemInSiteURL": "https://a2gov.legistar.com/LegislationDetail.aspx?ID=8069165&GUID=B7F33BB4-DFC2-4AD5-A966-B9852AB6E279&G=505481FE-B2ED-4B34-9A92-FDB26536D1E1&Options=&Search=",
-            "EventItemLastModifiedUtc": "2026-06-16T01:25:30.72",
+            "EventItemLastModifiedUtc": "2026-06-16T01:29:43.477",
             "EventItemMatterAttachments": [],
             "EventItemMatterFile": "26-1040",
             "EventItemMatterGuid": "54A17313-FAA7-4822-9D44-61BA58E52A47",
             "EventItemMatterId": 38887,
             "EventItemMatterName": "6/15/26 Resolution to Order Election and to Determine Ballot Question for Charter Amendment to Modify the Method for Counting Signatures of Nomination Petitions (7 Votes Required)",
-            "EventItemMatterStatus": "Introduced from Council",
+            "EventItemMatterStatus": "Passed",
             "EventItemMatterType": "Resolution",
             "EventItemMinutesNote": null,
             "EventItemMinutesSequence": 80,
-            "EventItemMover": null,
-            "EventItemMoverId": null,
-            "EventItemPassedFlag": null,
-            "EventItemPassedFlagName": null,
+            "EventItemMover": "Jennifer Cornell",
+            "EventItemMoverId": 1646,
+            "EventItemPassedFlag": 1,
+            "EventItemPassedFlagName": "Pass",
             "EventItemRollCallFlag": 0,
             "EventItemRollCallInfo": [],
-            "EventItemRowVersion": "AAAAAAHjvy8=",
-            "EventItemSeconder": null,
-            "EventItemSeconderId": null,
+            "EventItemRowVersion": "AAAAAAHjv1o=",
+            "EventItemSeconder": "Jen Eyer",
+            "EventItemSeconderId": 1626,
             "EventItemTally": null,
             "EventItemTitle": "Resolution to Order Election and to Determine Ballot Question for Charter Amendment to Modify the Method for Counting Signatures of Nomination Petitions (7 Votes Required, Roll Call Vote)",
             "EventItemVersion": "1",
@@ -3361,11 +3361,11 @@
                     "VoteLastModifiedUtc": "2026-06-16T01:25:24.063",
                     "VotePersonId": 749,
                     "VotePersonName": "Christopher Taylor",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAHjvyI=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAHjvzc=",
                     "VoteSort": 1467,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 223128,
@@ -3374,11 +3374,11 @@
                     "VoteLastModifiedUtc": "2026-06-16T01:25:24.067",
                     "VotePersonId": 326,
                     "VotePersonName": "Erica Briggs",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAHjvyM=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAHjvzk=",
                     "VoteSort": 2044,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 223128,
@@ -3387,11 +3387,11 @@
                     "VoteLastModifiedUtc": "2026-06-16T01:25:24.067",
                     "VotePersonId": 1623,
                     "VotePersonName": "Lisa Disch",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAHjvyQ=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAHjvzs=",
                     "VoteSort": 2045,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 223128,
@@ -3400,11 +3400,11 @@
                     "VoteLastModifiedUtc": "2026-06-16T01:25:24.067",
                     "VotePersonId": 1626,
                     "VotePersonName": "Jen Eyer",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAHjvyU=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAHjvz0=",
                     "VoteSort": 2047,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 223128,
@@ -3413,11 +3413,11 @@
                     "VoteLastModifiedUtc": "2026-06-16T01:25:24.07",
                     "VotePersonId": 1625,
                     "VotePersonName": "Travis Radina",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAHjvyY=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAHjvz8=",
                     "VoteSort": 2048,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 223128,
@@ -3426,11 +3426,11 @@
                     "VoteLastModifiedUtc": "2026-06-16T01:25:24.07",
                     "VotePersonId": 1693,
                     "VotePersonName": "Cynthia Harrison",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAHjvyc=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAHjv0E=",
                     "VoteSort": 2049,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 223128,
@@ -3439,11 +3439,11 @@
                     "VoteLastModifiedUtc": "2026-06-16T01:25:24.07",
                     "VotePersonId": 1579,
                     "VotePersonName": "Ayesha Ghazi Edwin",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAHjvyg=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAHjv0M=",
                     "VoteSort": 2050,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 223128,
@@ -3465,11 +3465,11 @@
                     "VoteLastModifiedUtc": "2026-06-16T01:25:24.07",
                     "VotePersonId": 1773,
                     "VotePersonName": "Dharma Akmon",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAHjvyo=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAHjv0U=",
                     "VoteSort": 2052,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 223128,
@@ -3478,11 +3478,11 @@
                     "VoteLastModifiedUtc": "2026-06-16T01:25:24.07",
                     "VotePersonId": 1646,
                     "VotePersonName": "Jennifer Cornell",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAHjvys=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAHjv0c=",
                     "VoteSort": 2053,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 },
                 {
                     "VoteEventItemId": 223128,
@@ -3491,11 +3491,11 @@
                     "VoteLastModifiedUtc": "2026-06-16T01:25:24.073",
                     "VotePersonId": 1886,
                     "VotePersonName": "Jon Mallek",
-                    "VoteResult": null,
-                    "VoteRowVersion": "AAAAAAHjvyw=",
+                    "VoteResult": 1,
+                    "VoteRowVersion": "AAAAAAHjv0k=",
                     "VoteSort": 2067,
-                    "VoteValueId": null,
-                    "VoteValueName": null
+                    "VoteValueId": 16,
+                    "VoteValueName": "Yea"
                 }
             ]
         },
