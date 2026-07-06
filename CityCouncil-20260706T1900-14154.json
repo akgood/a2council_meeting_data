@@ -1,6 +1,6 @@
 {
     "EventAgendaFile": "https://a2gov.legistar1.com/a2gov/meetings/2026/7/14154_A_City_Council_26-07-06_Meeting_Agenda.pdf",
-    "EventAgendaLastPublishedUTC": "2026-07-06T21:13:17.253",
+    "EventAgendaLastPublishedUTC": "2026-07-06T22:56:55.593",
     "EventAgendaStatusId": 11,
     "EventAgendaStatusName": "Final-revised",
     "EventBodyId": 138,
@@ -4412,14 +4412,14 @@
             "EventItemVoteInfo": []
         }
     ],
-    "EventLastModifiedUtc": "2026-07-06T21:13:17.287",
+    "EventLastModifiedUtc": "2026-07-06T22:56:55.683",
     "EventLocation": "Larcom City Hall, 301 E Huron St, Second floor, City Council Chambers",
     "EventMedia": null,
     "EventMinutesFile": null,
     "EventMinutesLastPublishedUTC": null,
     "EventMinutesStatusId": 9,
     "EventMinutesStatusName": "Draft",
-    "EventRowVersion": "AAAAAAHlo7Y=",
+    "EventRowVersion": "AAAAAAHlpyw=",
     "EventTime": "7:00 PM",
     "EventVideoPath": null,
     "EventVideoStatus": "Public"
