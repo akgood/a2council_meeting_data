@@ -1,6 +1,6 @@
 {
     "EventAgendaFile": "https://a2gov.legistar1.com/a2gov/meetings/2026/10/14160_A_City_Council_26-10-05_Meeting_Agenda.pdf",
-    "EventAgendaLastPublishedUTC": "2026-10-01T21:11:45.36",
+    "EventAgendaLastPublishedUTC": "2026-10-02T21:00:48.37",
     "EventAgendaStatusId": 10,
     "EventAgendaStatusName": "Final",
     "EventBodyId": 138,
@@ -25,7 +25,7 @@
             "EventItemGuid": "933F7B49-7AA8-4F25-92F2-4C1F6C98D2FF",
             "EventItemId": 226515,
             "EventItemInSiteURL": null,
-            "EventItemLastModifiedUtc": "2026-10-02T20:34:13.217",
+            "EventItemLastModifiedUtc": "2026-10-02T20:57:12.223",
             "EventItemMatterAttachments": [],
             "EventItemMatterFile": null,
             "EventItemMatterGuid": null,
@@ -41,7 +41,7 @@
             "EventItemPassedFlagName": null,
             "EventItemRollCallFlag": 0,
             "EventItemRollCallInfo": [],
-            "EventItemRowVersion": "AAAAAAHttKQ=",
+            "EventItemRowVersion": "AAAAAAHttaE=",
             "EventItemSeconder": null,
             "EventItemSeconderId": null,
             "EventItemTally": null,
@@ -3172,14 +3172,14 @@
             "EventItemVoteInfo": []
         }
     ],
-    "EventLastModifiedUtc": "2026-10-01T21:11:45.453",
+    "EventLastModifiedUtc": "2026-10-02T21:00:48.48",
     "EventLocation": "Larcom City Hall, 301 E Huron St, Second floor, City Council Chambers",
     "EventMedia": null,
     "EventMinutesFile": null,
     "EventMinutesLastPublishedUTC": null,
     "EventMinutesStatusId": 9,
     "EventMinutesStatusName": "Draft",
-    "EventRowVersion": "AAAAAAHts0Q=",
+    "EventRowVersion": "AAAAAAHtt+0=",
     "EventTime": "7:00 PM",
     "EventVideoPath": null,
     "EventVideoStatus": "Public"
